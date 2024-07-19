@@ -1,9 +1,10 @@
 ---
 title: "進化的アルゴリズムで自動プロンプトエンジニアリング"
-emoji: "📃"
+emoji: "🧬"
 type: "tech"
 topics: ["ChatGPT", "LLM", "プロンプトエンジニアリング", "遺伝的アルゴリズム", "LLMOps"]
 published: false
+publication_name: "deepcraft"
 ---
 
 # 本記事の内容
